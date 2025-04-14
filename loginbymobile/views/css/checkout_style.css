@@ -1,0 +1,35 @@
+/**
+* Please do not edit or add any code in this file without the permission of MsgBucket
+*
+* @author    MsgBucket
+* @copyright MsgBucket
+* @license   https://www.msgbucket.com
+* Prestashop version 1.7+
+* loginbymobile 17.0.0
+* Sep 2018
+*/
+
+#lbm_lf_section {
+	margin-top: 15px;
+}
+
+#lbm_lf_title {
+    text-align: center;
+    font-size: .875rem;
+    margin-top: 1rem;
+    padding-bottom: .9375rem;
+}
+
+#lbm_lf_title span {
+    text-align: center;
+    font-size: .875rem;
+}
+#lbm_lf_section hr {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}

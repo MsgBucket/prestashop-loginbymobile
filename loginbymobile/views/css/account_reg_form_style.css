@@ -1,0 +1,73 @@
+/**
+* Please do not edit or add any code in this file without the permission of MsgBucket
+*
+* @author    MsgBucket
+* @copyright MsgBucket
+* @license   https://www.msgbucket.com
+* Prestashop version 1.7+
+* loginbymobile 17.0.0
+* Sep 2018
+*/
+
+@media (max-width: 580px) {
+	#customer-form span#lbm_ca_form_call_prefix {
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+		color: white;
+		background: grey;
+		padding: 5px;
+		border-bottom: 1px solid white;
+	}
+	
+	#form_customer span#lbm_ca_form_call_prefix {
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+		color: white;
+		background: grey;
+		padding: 5px;
+		border-bottom: 1px solid white;
+	}
+	
+}
+@media (min-width: 581px) {
+	#customer-form span#lbm_ca_form_call_prefix {
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+		color: white;
+		background: grey;
+		padding: 5px;
+		border-bottom: 1px solid white;
+	}
+	
+	#form_customer span#lbm_ca_form_call_prefix {
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+		color: white;
+		background: grey;
+		padding: 5px;
+		border-bottom: 1px solid white;
+	}	
+}
+.input-group .input-group-btn>.btn[data-action=send_otp_ca_form] {
+    background: #7a7a7a;
+    height: 100%;
+}
+
+#lbm_ca_mobile_number {
+    z-index: 1;
+}
+#send_otp_success{
+color: #1CA005;
+text-transform: uppercase;
+padding-top: 10px;
+padding-left: 10px;
+}
+
+#send_otp_success_msg {
+color: #06690E;
+text-transform: uppercase;
+}

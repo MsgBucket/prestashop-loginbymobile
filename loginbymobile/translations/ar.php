@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{loginbymobile}prestashop>loginbymobile_59716c97497eb9694541f7c3d37b1a4d'] = 'الدولة';
+$_MODULE['<{loginbymobile}prestashop>loginbymobile_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>loginbymobile_7bad3729f4202d4b2b72ce0152c0cbf7'] = 'ادخل رقم الهاتف مباشرة بدون رمز البلد';
+$_MODULE['<{loginbymobile}prestashop>loginbymobile_d9d1e60e50119d9752001d4196ee6b3c'] = 'رمز التحقق';
+$_MODULE['<{loginbymobile}prestashop>loginbymobile_e7630d7b47855d50cbef1c44b3b44a92'] = 'ادخل رمز التحقق المستلم عبر الرسائل النصية';
+$_MODULE['<{loginbymobile}prestashop>loginbymobile_4f2df4c330b8df125a3d75f2d69a9b5e'] = 'ارسل رمز التحقق';
+$_MODULE['<{loginbymobile}prestashop>login_form_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>login_form_498f79c4c5bbde77f1bceb6c86fd0f6d'] = 'أظهر';
+$_MODULE['<{loginbymobile}prestashop>login_form_62a5e490880a92eef74f167d9dc6dca0'] = 'إخفاء';
+$_MODULE['<{loginbymobile}prestashop>login_form_01a569ddc6cf67ddec2a683f0a5f5956'] = 'نسيت كلمة المرور؟';
+$_MODULE['<{loginbymobile}prestashop>login_form_2cd326f1c30bfbc91b02e50ce91eaf75'] = 'تسجيل الدخول برقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>account_reg_form_mobile_4f2df4c330b8df125a3d75f2d69a9b5e'] = 'ارسل رمز التحقق';
+$_MODULE['<{loginbymobile}prestashop>account_reg_form_mobile_4b5b5f2a65bc0aaaf3f2d347f938f7d0'] = 'تم ارسال رمز التحقق بنجاح';
+$_MODULE['<{loginbymobile}prestashop>forgot_password_form_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>forgot_password_form_4f2df4c330b8df125a3d75f2d69a9b5e'] = 'ارسل رمز التحقق';
+$_MODULE['<{loginbymobile}prestashop>forgot_password_form_4c8842ddbd2c8650d6396639e1da4aeb'] = 'اعادة ارسال رمز التحقق';
+$_MODULE['<{loginbymobile}prestashop>forgot_password_form_d9d1e60e50119d9752001d4196ee6b3c'] = 'رمز التحقق';
+$_MODULE['<{loginbymobile}prestashop>twf_form_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>checkout_login_form_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>checkout_login_form_498f79c4c5bbde77f1bceb6c86fd0f6d'] = 'أظهر';
+$_MODULE['<{loginbymobile}prestashop>checkout_login_form_62a5e490880a92eef74f167d9dc6dca0'] = 'إخفاء';
+$_MODULE['<{loginbymobile}prestashop>checkout_login_form_2cd326f1c30bfbc91b02e50ce91eaf75'] = 'تسجيل الدخول برقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>account_reg_form_complete_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>adminmobilebycustomercontroller_a4c72a94703b05c9c918cbf8408afad5'] = 'رقم الهاتف';
+$_MODULE['<{loginbymobile}prestashop>lbmauth_6c6dac230a0a8cd4174685a8c6565c94'] = 'فشل التحقق الرجاء التأكد من رقم الهاتف و كلمة المرور';
+$_MODULE['<{loginbymobile}prestashop>lbmauth_802b207b05fe5cea22e11b9db804b33d'] = 'فشل التحقق الرجاء التأكد من رقم الهاتف و كلمة المرور';
+$_MODULE['<{loginbymobile}prestashop>forgotpassword_451409701ee91bf877ca6f98bd824704'] = 'فشل التحقق الرجاء التأكد من رقم الهاتف و كلمة المرور';
+$_MODULE['<{loginbymobile}prestashop>forgotpassword_802b207b05fe5cea22e11b9db804b33d'] = 'فشل التحقق الرجاء التأكد من رقم الهاتف و كلمة المرور';
